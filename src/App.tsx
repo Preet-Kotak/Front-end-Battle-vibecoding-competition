@@ -14,8 +14,8 @@ export default function App() {
       <MetaManager
         title="DataFlow AI — Automate your data. Amplify your intelligence."
         description="DataFlow AI unifies your data pipelines, ML models, and business workflows into one intelligent platform. Start free — no infrastructure code required."
-        ogImage="https://dataflow.ai/og-image.png"
-        ogUrl="https://dataflow.ai"
+        ogImage="https://dataflow-ai-eight.vercel.app/og-image.png"
+        ogUrl="https://dataflow-ai-eight.vercel.app/"
       />
 
       <Header />
