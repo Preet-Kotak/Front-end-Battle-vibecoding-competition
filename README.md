@@ -62,36 +62,7 @@ src/
 
 ---
 
-## ✅ FB Round 1 Compliance
 
-### Scoring (100 pts)
-
-| Category | Points | Status |
-|---|---|---|
-| Feature 1 — Dynamic pricing matrix | 15 | ✅ |
-| Re-render & state isolation guardrail | 15 | ✅ |
-| Feature 2 — Bento↔Accordion + context lock | 10 | ✅ |
-| Semantic DOM layout | 15 | ✅ |
-| SEO hygiene & metadata | 10 | ✅ |
-| Loading sequence performance (≤500ms) | 5 | ✅ |
-| Asset compliance & design polish | 15 | ✅ |
-| Breakpoint fluidity | 10 | ✅ |
-| Motion accuracy | 5 | ✅ |
-
-### Motion Constraints
-
-| Type | Duration | Easing |
-|---|---|---|
-| Hover / micro-interactions | 150ms | ease-out |
-| Accordion open/close | 300ms | ease-in-out |
-| Carousel slide | 400ms | cubic-bezier(0.4, 0, 0.2, 1) |
-| Section reveal | 600ms | ease-out |
-
-### Banned Libraries — Confirmed Absent
-`Framer Motion` · `Radix UI` · `Shadcn` · `HeadlessUI` · `Tailwind UI`  
-All animations are hand-written CSS transitions / keyframes.
-
----
 
 ## 🚀 Getting Started
 
