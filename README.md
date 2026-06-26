@@ -103,8 +103,8 @@ All animations are hand-written CSS transitions / keyframes.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Preet-Kotak/Front-end-Battle-vibecoding-competition.git
+cd Front-end-Battle-vibecoding-competition
 
 # Install dependencies
 npm install
