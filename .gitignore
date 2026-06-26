@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build output — Vercel builds this itself
+dist/
+dist-ssr/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# Vite cache
+.vite/
